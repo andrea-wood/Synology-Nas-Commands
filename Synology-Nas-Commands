@@ -1,0 +1,4 @@
+# restart the sshd service
+synoservicectl --reload sshd
+# or 
+synoservicectl --restart sshd
